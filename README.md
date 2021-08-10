@@ -1,6 +1,8 @@
 # Meme-Share-App
 
-It is a Meme Sharing App where you have two buttons one to share and another for next Meme
+It is a Meme Sharing App where you have two buttons one to share and another for next Meme following **Singleton Design pattern** 
+
+**API used** - Volley API and GLide API
 
 Language Used here is **Kotlin**
 
